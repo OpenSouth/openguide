@@ -4,10 +4,10 @@
 >我们欢迎推荐、自荐项目，让更多人知道你的项目。
 ## 开源热点趋势
 ### 本周十大 star 增长热点项目（每周日中午 12：00 更新）
-|  开源项目   | 类型 |趋势  |
-|  ----  | ----  |----  |
-| [Sa-Token](https://github.com/dromara/Sa-Token)  | Java 权限认证框架 | 本周 star 增长 811，总 star 数： 4497 |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)  | 机器学习入门 | 本周 star 增长 3,774，总 star 数： 12,517 |
+|  开源项目   | 类型 |趋势  |总趋势  |
+|  ----  | ----  |----  |----  |
+| [Sa-Token](https://github.com/dromara/Sa-Token)  | Java 权限认证框架 | 本周 star 增长 811，总 star 数： 4497 |![image](https://user-images.githubusercontent.com/39942637/126041578-a00279ac-ce3c-4757-b636-7520563347a9.png)|
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)  | 机器学习入门 | 本周 star 增长 3,774，总 star 数： 12,517 |![image](https://user-images.githubusercontent.com/39942637/126041590-d3a37c81-0d3c-44f9-a2ec-336c8dd6e2ff.png)|
 ## 目录
 ### 前端
 #### 数据可视化
