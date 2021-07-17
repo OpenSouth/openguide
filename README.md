@@ -2,6 +2,12 @@
 ## 目标
 开源指南专注于分享 Github、Gitee 上知名的 Java、Python、前端、后端、Web、AI、架构、虚拟化等多个领域的优质学习资源、开源项目。
 >我们欢迎推荐、自荐项目，让更多人知道你的项目。
+## 开源热点趋势
+### 本周十大 star 增长热点项目（每周日中午 12：00 更新）
+|  开源项目   | 类型 |趋势  |
+|  ----  | ----  |----  |
+| [Sa-Token](https://github.com/dromara/Sa-Token)  | Java 权限认证框架 | 本周 star 增长 811，总 star 数： 4497 |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)  | 机器学习入门 | 本周 star 增长 3,774，总 star 数： 12,517 |
 ## 目录
 ### 前端
 #### 数据可视化
