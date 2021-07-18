@@ -4,6 +4,8 @@
 ## 宗旨
 开源指南专注于分享 Github、Gitee 上知名的 Java、Python、前端、后端、Web、AI、架构、虚拟化等多个领域的优质学习资源、开源项目。
 - 公众号：[开源指南](https://user-images.githubusercontent.com/39942637/126058002-7a27b74e-f1cd-4ea9-a4a4-826120cbf062.png)
+- 知乎： [开源指南](https://www.zhihu.com/people/kai-yuan-zhi-nan)
+- 掘金：[开源指南](https://juejin.cn/user/792123647224792)
 > 欢迎到 [Issues](https://github.com/OpenSouth/openguide/issues/new) 推荐或自荐项目，让更多人知道你的项目。
 ## 目录
 - [Java](https://github.com/OpenSouth/openguide#java)
