@@ -6,8 +6,8 @@
 - 公众号：[开源指南](https://user-images.githubusercontent.com/39942637/126058002-7a27b74e-f1cd-4ea9-a4a4-826120cbf062.png)
 > 欢迎到 [Issues](https://github.com/OpenSouth/openguide/issues/new) 推荐或自荐项目，让更多人知道你的项目。
 ## 目录
-- [Java](https://github.com/OpenSouth/openguide#Java)
-- [Python](https://github.com/OpenSouth/openguide#Python)
+- [Java](https://github.com/OpenSouth/openguide#java)
+- [Python](https://github.com/OpenSouth/openguide#python)
 - [前端](https://github.com/OpenSouth/openguide#前端)
 - [工具](https://github.com/OpenSouth/openguide#工具)
 - [移动端](https://github.com/OpenSouth/openguide#移动端)
